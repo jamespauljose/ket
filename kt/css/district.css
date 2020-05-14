@@ -1,0 +1,104 @@
+.sec{
+    margin-left: 150px;
+    margin-top: 10px;
+}
+#more {display: none;}
+#alpy{
+    background-image: url('../img/alp1.jpg');
+    width: 100%;
+    height: 100vh;
+    background-size: 100%;
+}
+#ekm{
+    background-image: url('../img/ekm1.jpg');
+    width: 100%;
+    height: 100vh;
+    background-size: 100%;
+}
+#idk{
+    background-image: url('../img/idk1.jpg');
+    width: 100%;
+    height: 100vh;
+    background-size: 100%;
+}
+#knr{
+    background-image: url('../img/knr1.jpg');
+    width: 100%;
+    height: 100vh;
+    background-size: 100%;
+}
+
+#ksrgd{
+    background-image: url('../img/ksrgd1.jpg');
+    width: 100%;
+    height: 100vh;
+    background-size: 100%;
+}
+
+#klm{
+    background-image: url('../img/klm1.jpg');
+    width: 100%;
+    height: 100vh;
+    background-size: 100%;
+}
+
+#ktm{
+    background-image: url('../img/ktm1.jpg');
+    width: 100%;
+    height: 100vh;
+    background-size: 100%;
+}
+#kzkd{
+    background-image: url('../img/kzkd1.jpg');
+    width: 100%;
+    height: 100vh;
+    background-size: 100%;
+}
+
+#mlpm{
+    background-image: url('../img/mlpm1.jpg');
+    width: 100%;
+    height: 100vh;
+    background-size: 100%;
+}
+#plkd{
+    background-image: url('../img/plkd1.jpg');
+    width: 100%;
+    height: 100vh;
+    background-size: 100%;
+}
+#ptnm{
+    background-image: url('../img/ptnm11.jpg');
+    width: 100%;
+    height: 100vh;
+    background-size: 100%;
+}
+#tvm{
+    background-image: url('../img/tvm1.jpg');
+    width: 100%;
+    height: 100vh;
+    background-size: 100%;
+}
+#tsr{
+    background-image: url('../img/tsr1.jpg');
+    width: 100%;
+    height: 100vh;
+    background-size: 100%;
+}
+#wynd{
+    background-image: url('../img/wynd11.jpg');
+    width: 100%;
+    height: 100vh;
+    background-size: 100%;
+}
+
+
+
+.container{
+    background-color: transparent;
+    content: normal;
+}
+
+
+
+
