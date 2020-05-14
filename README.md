@@ -1,1 +1,1 @@
-# open folder in visual studio code and live server index.html
+# open folder named "kt" in visual studio code and live server index.html
